@@ -1,0 +1,79 @@
+div{
+  color: red;
+  font-size: 20px;
+  border-radius: 45%;
+  width: 70%;
+  height: 10%;
+  text-align: center;
+}
+.example1:hover{
+  background-color:hsl(204, 100%, 50%);
+}
+.example2{
+  font-size: 30px;
+  color: black;
+  background-color: orange
+}
+.example3{
+  font-size: 40px;
+  color: white;
+  font-style:italic;
+  background-color: red
+}
+
+h1{
+  font-size: 50px;
+  color: teal;
+  background-color: #cc99ff;
+  border: dotted;
+  border-width: thick;
+  border-style: dashed;
+  border-top-color: yellow;
+  border-bottom: solid
+}
+p{
+  text-align:center;
+  margin: auto;
+  width: 600px;
+  height: 600px;
+background-color:rgb(255, 51, 0);
+color: white;
+font-size: 30px;
+font-style: normal;
+border-radius:40%;
+border-top:dotted;
+border-right: dotted;
+border color:yellow;
+}
+p1:hover{
+  font-size: 20px;
+  color: red;
+}
+table{
+    border-width: 5px;
+    border-style: double;
+    background-color: #cc99ff;
+}
+tr,td{
+  padding: 15px;
+}
+
+.p1{border-style:none;}
+.p2{border-style:hidden;}
+.p3{border-style: dotted;}
+.p4{border-style: dashed;}
+.p5{border-style: solid;}
+.p6{border-style: double;}
+.p7{border-style: groove;}
+.p8{border-style:ridge;}
+.p9{border-style: inset;}
+.p10{border-style:outset;}
+
+div1,div2,div3{
+#taller{
+  border-color: red;
+  border-style: solid;
+  border-bottom: 5px;
+}
+#shorter{height:25px;}
+#short{height:50px ;}
